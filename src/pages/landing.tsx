@@ -18,7 +18,7 @@ de muitas criança.
               </p>
             </main>
             <div className="location">
-              <strong>Santo Antônio de Jesus</strong>
+              <strong>Salvador</strong>
               <span>Bahia</span>
             </div>
             <Link to = "/app" className = "enter-app"> <FiArrowRight size = {26} color = "rgba(0,0,0,0.6)"/></Link> 
